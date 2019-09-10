@@ -1,0 +1,17 @@
+div .post-list-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+div .post-list {
+  width: 700px;
+  height: 500px;
+  margin: 20px;
+}
+
+.list {
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+}

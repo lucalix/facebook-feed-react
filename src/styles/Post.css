@@ -1,0 +1,36 @@
+div .post {
+  max-width: 700px;
+  background: #FFF;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 25px 0;
+}
+
+.post .user-data {
+  display: flex;
+  align-items: center;
+}
+
+.post .user-data .avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.post .user-data .user-date .date {
+  color: #CCC;
+  font-size: 14px;
+  margin-top: 3px;
+}
+
+.post .content {
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 15px;
+}
+
+.comment-list {
+  padding: 0;
+}

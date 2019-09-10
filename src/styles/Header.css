@@ -1,0 +1,17 @@
+div .header-container {
+  background: #385898;
+  margin-top: 0px;
+  padding: 0px;
+  color: #FFF;
+  width: 100%;
+}
+
+div .header-container .header {
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  margin: 0 auto;
+  max-width: 980px;
+}
